@@ -1,6 +1,7 @@
 # google_maps_yt
 
 # Project Overview
+![labourer_worker_flow](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/72d774af-817f-4f8f-830c-4972183eaaab)
 
 ## Purpose
 The project aims to address the challenges faced by low-skilled labourers and customers by creating a platform that enhances accessibility, efficiency in job matching, and ensures safer working conditions through innovative technologies.
