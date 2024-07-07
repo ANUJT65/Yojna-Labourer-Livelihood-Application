@@ -12,8 +12,9 @@ The project aims to address the challenges faced by low-skilled labourers and cu
 
 
 ## Project Description
+The project has 2 sides one is developed in flutter which is labourer side and one is developed in java which is customer side, we have effectively integrated 2 different technologies through this project achieving seamless connectivity between the 2 sides.
 
-### Labourer Side (Flutter):
+###1) Labourer Side (Flutter):
 - **Text-to-Speech Module:**
   - Guides workers through the app, ensuring accessibility even for less educated users.
   
@@ -32,7 +33,7 @@ The project aims to address the challenges faced by low-skilled labourers and cu
   - Utilizes Firebase to securely store worker locations collected during registration.
   - Enables accurate job matching based on proximity for efficient service delivery.
 
-### Customer Side (Java):
+###2) Customer Side (Java):
 - **Job Matching Algorithm:**
   - Algorithmically matches customer requests with the nearest suitable worker based on stored location data.
   - Ensures efficient and cost-effective service provision by prioritizing proximity.
