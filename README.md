@@ -31,6 +31,9 @@ The project has 2 sides one is developed in flutter which is labourer side and o
   - Enables accurate job matching based on proximity for efficient service delivery.
 
 ### 2) Customer Side (Java):
+
+
+ 
 - **Job Matching Algorithm:**
   - Algorithmically matches customer requests with the nearest suitable worker based on stored location data.
   - Ensures efficient and cost-effective service provision by prioritizing proximity.
@@ -40,7 +43,13 @@ The project has 2 sides one is developed in flutter which is labourer side and o
   
 - **Hiring Process:**
   - Streamlines the hiring process, allowing customers to select and hire labourers quickly for various tasks.
-  
+ 
+- Images:
+ ![WhatsApp Image 2024-07-08 at 4 41 11 AM](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/73019d84-1bf5-4294-9efb-5e61dfc915e4)
+![WhatsApp Image 2024-07-08 at 4 41 11 AM (1)](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/9d3d0e32-4d55-45a4-8660-e67c2dc2ff02)
+![WhatsApp Image 2024-07-08 at 4 41 10 AM](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/854c41ab-8fb5-40cf-ab34-f90a10336078)
+![WhatsApp Image 2024-07-08 at 4 41 10 AM (1)](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/ca9b7308-ca3c-4a6c-b74a-7209361133a4)
+
 - **IoT-Based Safety Modules:**
   - Implements IoT sensors to monitor environmental conditions such as humidity, temperature, and worker heart rate in real-time.
   - Alerts the customer-side system in case of emergencies or hazardous conditions, ensuring prompt intervention and worker safety.
