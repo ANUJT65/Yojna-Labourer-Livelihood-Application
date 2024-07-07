@@ -31,20 +31,21 @@ The project has 2 sides one is developed in flutter which is labourer side and o
   - Enables accurate job matching based on proximity for efficient service delivery.
  
   - Images:
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f3c2657b-8df4-41c6-8a5a-04484057a249" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/06bea273-5690-40f7-9ca0-87c270df8d7c" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/678bd902-bb6d-49f4-9d02-b526f48ab4b0" style="width: 300px; height: 500px;">
+ <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f1f9264c-71bf-4557-b2b6-45fc7f2d6bc8" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/d85d110a-ed62-4302-a186-89f9d5180229" style="width: 300px; height: 500px;">
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/8c964168-edd6-4f4b-909e-cc7c36100aa5" style="width: 300px; height: 500px; margin-right: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/1302d041-45f7-4658-af4b-70b1500ef00c" style="width: 300px; height: 500px; margin-right: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/e8879d17-3947-4cff-8ae3-40be4291d37c" style="width: 300px; height: 500px;">
 </div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f1f9264c-71bf-4557-b2b6-45fc7f2d6bc8" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/d85d110a-ed62-4302-a186-89f9d5180229" style="width: 300px; height: 500px;">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f3c2657b-8df4-41c6-8a5a-04484057a249" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/06bea273-5690-40f7-9ca0-87c270df8d7c" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/678bd902-bb6d-49f4-9d02-b526f48ab4b0" style="width: 300px; height: 500px;">
 </div>
+
 
 
 ### 2) Customer Side (Java):
@@ -62,14 +63,15 @@ The project has 2 sides one is developed in flutter which is labourer side and o
   - Streamlines the hiring process, allowing customers to select and hire labourers quickly for various tasks.
  
 - Images: Please do click images to view proper formatted images in new window
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/854c41ab-8fb5-40cf-ab34-f90a10336078" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/ca9b7308-ca3c-4a6c-b74a-7209361133a4" style="width: 300px; height: 500px;">
+</div>
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/73019d84-1bf5-4294-9efb-5e61dfc915e4" style="width: 300px; height: 500px; margin-right: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/9d3d0e32-4d55-45a4-8660-e67c2dc2ff02" style="width: 300px; height: 500px;">
 </div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/854c41ab-8fb5-40cf-ab34-f90a10336078" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/ca9b7308-ca3c-4a6c-b74a-7209361133a4" style="width: 300px; height: 500px;">
-</div>
+
 
 
 
