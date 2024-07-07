@@ -44,7 +44,7 @@ The project has 2 sides one is developed in flutter which is labourer side and o
 - **Hiring Process:**
   - Streamlines the hiring process, allowing customers to select and hire labourers quickly for various tasks.
  
-- Images:
+- Images: Please do click images to view proper formatted images in new window
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/73019d84-1bf5-4294-9efb-5e61dfc915e4" style="width: 300px; height: 300px; margin-right: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/9d3d0e32-4d55-45a4-8660-e67c2dc2ff02" style="width: 300px; height: 300px;">
