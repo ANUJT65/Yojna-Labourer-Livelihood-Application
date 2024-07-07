@@ -46,12 +46,12 @@ The project has 2 sides one is developed in flutter which is labourer side and o
  
 - Images:
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/73019d84-1bf5-4294-9efb-5e61dfc915e4" style="width: 200px; height: 200px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/9d3d0e32-4d55-45a4-8660-e67c2dc2ff02" style="width: 200px; height: 200px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/73019d84-1bf5-4294-9efb-5e61dfc915e4" style="width: 300px; height: 300px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/9d3d0e32-4d55-45a4-8660-e67c2dc2ff02" style="width: 300px; height: 300px;">
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/854c41ab-8fb5-40cf-ab34-f90a10336078" style="width: 200px; height: 200px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/ca9b7308-ca3c-4a6c-b74a-7209361133a4" style="width: 200px; height: 200px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/854c41ab-8fb5-40cf-ab34-f90a10336078" style="width: 300px; height: 300px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/ca9b7308-ca3c-4a6c-b74a-7209361133a4" style="width: 300px; height: 300px;">
 </div>
 
 
