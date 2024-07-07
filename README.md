@@ -1,14 +1,11 @@
-
-# Project Overview
-![labourer_worker_flow](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/72d774af-817f-4f8f-830c-4972183eaaab)
-
 ## Introduction
 The project was conceived to tackle the persistent issue of poor working conditions for low-skilled labourers, both locally and internationally. The tragic deaths of Indian workers in Qatar underscored the urgent need for safer working environments globally. Furthermore, the COVID-19 pandemic exacerbated livelihood challenges for these vulnerable groups, highlighting the importance of innovative solutions that can facilitate safer and more efficient working conditions.
 
 ## Purpose
 The project aims to address the challenges faced by low-skilled labourers and customers by creating a platform that enhances accessibility, efficiency in job matching, and ensures safer working conditions through innovative technologies.
 
-
+# Project Overview
+![labourer_worker_flow](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/72d774af-817f-4f8f-830c-4972183eaaab)
 
 
 ## Project Description
