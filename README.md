@@ -11,6 +11,7 @@ The project aims to address the challenges faced by low-skilled labourers and cu
 
 
 
+
 ## Project Description
 
 ### Labourer Side (Flutter):
@@ -46,6 +47,8 @@ The project aims to address the challenges faced by low-skilled labourers and cu
 - **IoT-Based Safety Modules:**
   - Implements IoT sensors to monitor environmental conditions such as humidity, temperature, and worker heart rate in real-time.
   - Alerts the customer-side system in case of emergencies or hazardous conditions, ensuring prompt intervention and worker safety.
+  
+  ![hardware_safety_module](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/e669d4f2-f1b1-42c5-b0e9-66df6a00e11e)
   
 ### Database (Firebase):
 - Acts as a centralized database facilitating communication between the labourer and customer sides.
