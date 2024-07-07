@@ -22,7 +22,7 @@ The project has 2 sides one is developed in flutter which is labourer side and o
 - **Job Search:**
   - Enables labourers to browse and apply for low-skill wage jobs directly from the app.
   
-- **Legal AI Chatbot:**
+- **Legal AI Chatbot with innovate speech based ui:**
   - Gemini-based chatbot with a simplified 4-button UI, designed for ease of use by less educated individuals.
   - Provides legal assistance, answering queries related to employment rights and legal protections.
   
