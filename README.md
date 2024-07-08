@@ -13,6 +13,16 @@ The project aims to address the challenges faced by low-skilled labourers and cu
 ## Project Description
 The project has 2 sides one is developed in flutter which is labourer side and one is developed in java which is customer side, we have effectively integrated 2 different technologies through this project achieving seamless connectivity between the 2 sides.
 
+## Tech Stack
+
+- **Flutter**: For developing the laborer-side mobile application.
+- **Java**: For developing the customer-side application.
+- **Firebase**: Used as a centralized database for storing worker locations, job preferences, and facilitating communication between laborer and customer sides.
+- **Text-to-Speech Module**: Integrated into the Flutter application to enhance accessibility.
+- **Gemini-based Chatbot**: Implemented in the laborer-side application for legal assistance.
+- **IoT Sensors**: For monitoring environmental conditions such as humidity, temperature, and worker heart rate in real-time.
+
+
 ## VIDEO DEMO
 
 [![Watch the video](https://img.youtube.com/vi/jGRizFzvGEU/0.jpg)](https://www.youtube.com/watch?v=jGRizFzvGEU)
