@@ -39,9 +39,9 @@ The project has 2 sides one is developed in flutter which is labourer side and o
 </div>
 
 <div style="display: flex; justify-content: center;margin-top: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f3c2657b-8df4-41c6-8a5a-04484057a249" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/678bd902-bb6d-49f4-9d02-b526f48ab4b0" style="width: 300px; height: 500px;margin-right: 20px;">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/06bea273-5690-40f7-9ca0-87c270df8d7c" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/678bd902-bb6d-49f4-9d02-b526f48ab4b0" style="width: 300px; height: 500px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f3c2657b-8df4-41c6-8a5a-04484057a249" style="width: 300px; height: 500px; ">
 </div>
 <div style="display: flex; justify-content: center; ">
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/8c964168-edd6-4f4b-909e-cc7c36100aa5" style="width: 300px; height: 500px; margin-right: 20px;">
