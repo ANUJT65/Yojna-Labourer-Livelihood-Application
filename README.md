@@ -44,9 +44,9 @@ The project has 2 sides one is developed in flutter which is labourer side and o
     <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f3c2657b-8df4-41c6-8a5a-04484057a249" style="width: 300px; height: 500px; ">
 </div>
 <div style="display: flex; justify-content: center; ">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/8c964168-edd6-4f4b-909e-cc7c36100aa5" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/1302d041-45f7-4658-af4b-70b1500ef00c" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/e8879d17-3947-4cff-8ae3-40be4291d37c" style="width: 300px; height: 500px;">
+   <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/e8879d17-3947-4cff-8ae3-40be4291d37c" style="width: 300px; height: 500px;margin-right: 20px;">
+   <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/1302d041-45f7-4658-af4b-70b1500ef00c" style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/8c964168-edd6-4f4b-909e-cc7c36100aa5" style="width: 300px; height: 500px; ">
 </div>
 
 
