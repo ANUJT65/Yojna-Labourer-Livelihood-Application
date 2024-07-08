@@ -13,6 +13,11 @@ The project aims to address the challenges faced by low-skilled labourers and cu
 ## Project Description
 The project has 2 sides one is developed in flutter which is labourer side and one is developed in java which is customer side, we have effectively integrated 2 different technologies through this project achieving seamless connectivity between the 2 sides.
 
+## VIDEO DEMO
+
+[![Watch the video](https://img.youtube.com/vi/jGRizFzvGEU/0.jpg)](https://www.youtube.com/watch?v=jGRizFzvGEU)
+
+
 ### 1) Labourer Side (Flutter):
 - **Text-to-Speech Module:**
   - Guides workers through the app, ensuring accessibility even for less educated users.
