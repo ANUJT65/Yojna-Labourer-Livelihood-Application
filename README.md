@@ -34,8 +34,8 @@ The project has 2 sides one is developed in flutter which is labourer side and o
  
   - Images:
  <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f1f9264c-71bf-4557-b2b6-45fc7f2d6bc8" style="width: 300px; height: 500px; margin-right: 20px;">
-    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/d85d110a-ed62-4302-a186-89f9d5180229" style="width: 300px; height: 500px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/d85d110a-ed62-4302-a186-89f9d5180229"style="width: 300px; height: 500px; margin-right: 20px;">
+    <img src="https://github.com/ANUJT65/Yojna_2.0/assets/123918593/f1f9264c-71bf-4557-b2b6-45fc7f2d6bc8"  style="width: 300px; height: 500px;">
 </div>
 
 <div style="display: flex; justify-content: center;margin-top: 20px;">
