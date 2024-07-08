@@ -23,7 +23,7 @@ The project has 2 sides one is developed in flutter which is labourer side and o
 - **IoT Sensors**: For monitoring environmental conditions such as humidity, temperature, and worker heart rate in real-time.
 
 
-## VIDEO DEMO
+## VIDEO DEMO(please do keep full volume, and do click on thumbnail for the video)
 
 [![Watch the video](https://img.youtube.com/vi/jGRizFzvGEU/0.jpg)](https://www.youtube.com/watch?v=jGRizFzvGEU)
 
