@@ -98,6 +98,10 @@ The project has 2 sides one is developed in flutter which is labourer side and o
   - Alerts the customer-side system in case of emergencies or hazardous conditions, ensuring prompt intervention and worker safety.
   
   ![hardware_safety_module](https://github.com/ANUJT65/Yojna_2.0/assets/123918593/e669d4f2-f1b1-42c5-b0e9-66df6a00e11e)
+  - Components:
+  - DHT11 : For Temperature and Humidity Monitoring
+  - MQS : For Poisonous Gas Detection
+  - MAX30102 : Heart Rate Monitoring 
   
 ### Database (Firebase):
 - Acts as a centralized database facilitating communication between the labourer and customer sides.
