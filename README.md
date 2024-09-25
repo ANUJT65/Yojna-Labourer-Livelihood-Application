@@ -1,7 +1,5 @@
 ##  Yojna: Dual Platform Solution for Laborer Livelihood and Well Being:
-## Contributers:
-- Pranav Ratnalikar 
-- Anuj Tadkase
+
 ## Introduction: 
 The project was conceived to tackle the persistent issue of poor working conditions for low-skilled labourers, both locally and internationally. The tragic deaths of Indian workers in Qatar underscored the urgent need for safer working environments globally. Furthermore, the COVID-19 pandemic exacerbated livelihood challenges for these vulnerable groups, highlighting the importance of innovative solutions that can facilitate safer and more efficient working conditions.
 
