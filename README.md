@@ -5,7 +5,7 @@ Java Side: Pranav Ratnalikar
 Hardware:Tejas Hirve
 
 ## Introduction: 
-The project was conceived to tackle the persistent issue of poor working conditions for low-skilled labourers, both locally and internationally. The tragic deaths of Indian workers in Qatar underscored the urgent need for safer working environments globally. Furthermore, the COVID-19 pandemic exacerbated livelihood challenges for these vulnerable groups, highlighting the importance of innovative solutions that can facilitate safer and more efficient working conditions.
+The project was made to tackle the persistent issue of poor working conditions for low-skilled labourers, both locally and internationally. The tragic deaths of Indian workers in Qatar underscored the urgent need for safer working environments globally. Furthermore, the COVID-19 pandemic exacerbated livelihood challenges for these vulnerable groups, highlighting the importance of innovative solutions that can facilitate safer and more efficient working conditions.
 
 ## Purpose
 The project aims to address the challenges faced by low-skilled labourers and customers by creating a platform that enhances accessibility, efficiency in job matching, and ensures safer working conditions through innovative technologies.
